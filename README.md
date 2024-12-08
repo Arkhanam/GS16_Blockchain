@@ -1,5 +1,5 @@
-## Rendu pour le projet de GS16
-#Tutoriel pour lancer l'interface web
+#### Rendu pour le projet de GS16
+##Tutoriel pour lancer l'interface web
 
 Une fois téléchargé faites ceci pour pouvoir avoir accès à l'interface web :
 
@@ -11,7 +11,7 @@ npm run dev
 
 Allez ensuite sur [http://localhost:3000](http://localhost:3000).
 
-#Vidéos de présentation
+##Vidéos de présentation
 
 Voici le lien pour la vidéo qui présente le smart contrat :
 
